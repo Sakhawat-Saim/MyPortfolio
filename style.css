@@ -31,13 +31,47 @@ img {
 }
 
 body {
-  background-color: #f9f9f9;
+  
+  background-color: #99C4C8;
 }
-.header h1 {
+.header {
   color: #7858a6;
   margin-left: auto;
   margin-right: auto;
   width: 300px;
   padding: 10px;
   white-space: nowrap;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font: italic 1.2em "Fira Sans", serif;
+  font-weight: normal;
+  
+  
 }
+
+.sky{
+  float: left;
+  margin-left: 0px 0px 0px 30px;
+  width: 150px;
+  height: 38px;
+  margin-left: 150px;
+  margin-top: -100px;
+  
+}
+.header p{
+  margin-left: 50px;
+}
+.middle{
+  color: #7858a6;
+  margin: 0 500px 0px 500px;
+  padding-top: 10px;
+}
+hr{
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #031227;
+  padding-top: 200px;
+  margin-top: 200px;
+}
+
+
