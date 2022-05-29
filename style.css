@@ -6,7 +6,7 @@
   margin-top: -15px;
 }
 
-/* Style the links inside the navigation bar */
+
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -16,7 +16,7 @@
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
+
 .topnav a:hover {
   background-color: #ddd;
   color: black;
@@ -41,7 +41,6 @@ body {
   width: 300px;
   padding: 10px;
   white-space: nowrap;
-  /* font-family: Arial, Helvetica, sans-serif; */
   font: italic 1.2em "Fira Sans", serif;
   font-weight: normal;
   
@@ -50,7 +49,6 @@ body {
 
 .sky{
   float: left;
-  margin-left: 0px 0px 0px 30px;
   width: 150px;
   height: 38px;
   margin-left: 150px;
@@ -81,7 +79,6 @@ hr{
 }
 .develop{
   float: left;
-  margin-left: 0px 0px 0px 30px;
   width: 150px;
   height: 38px;
   margin-left: 200px;
@@ -91,7 +88,6 @@ hr{
 }
 .develop p{
   float: left;
-  /* margin-left: 0px 0px 0px 30px; */
   width: 550px;
   height: 250px;
   margin-left: 350px;
@@ -108,12 +104,10 @@ hr{
   
   width: 50px;
   padding: 10px;
-  /* font-family: Arial, Helvetica, sans-serif; */
   font: italic 1.2em "Fira Sans", serif;
   font-weight: normal;
   padding-top: 20px;
   font-size: large;
-  /* font: italic 1.2em "Fira Sans", serif; */
   font-weight: bold;
   color: #7858a6;
 }
@@ -136,7 +130,6 @@ padding-bottom: 0.1px;
 }
 .develop h2{
   float: left;
-  /* margin-left: 0px 0px 0px 30px; */
   width: 550px;
   height: 150px;
   margin-left: 350px;
@@ -159,8 +152,6 @@ padding-bottom: 0.1px;
 }
 .frontend h2{
   float: right;
-
-  /* margin-left: 0px 0px 0px 30px; */
   width: 550px;
   height: 150px;
   margin-left: 350px;
@@ -169,7 +160,6 @@ padding-bottom: 0.1px;
   font-size: x-large;
   font: italic 1.2em "Fira Sans", serif;
   font-weight: bold;
-  /* background-color: #031227; */
   padding-left: 100px;
   right: 200px;
   position: relative;
@@ -179,7 +169,6 @@ padding-bottom: 0.1px;
 .frontend p{
 
   float: right;
-  /* margin-left: 0px 0px 0px 30px; */
   width: 550px;
   height: 100px;
   margin-left: 100px;
@@ -195,8 +184,6 @@ padding-bottom: 0.1px;
 }
 .mobile{
   float: right;
-  
-  margin-left: 30px 0px 0px 0px;
   width: 150px;
   height: 38px;
   margin-right: 250px;
@@ -204,42 +191,39 @@ padding-bottom: 0.1px;
 }
 
 .help p{
-  /* position: relative; */
-  /* bottom: auto; */
-  /* top: 400px;
-  left: 5px; */
+ 
   text-align: center;
   color: #7858a6;
- 
-  /* padding-top: 10px;
-padding-bottom: 0.1px; */
-
   
 }
 .help{
   font-size: xx-large;
   background-color: #94bbb9;
-  /* white-space: nowrap; */
   margin: auto;
   width: 550px;
   height: 100px;
-  /* position: relative; */
   margin-top: 550px;
   padding-top: 10px;
  
 }
 
-/* .freelance p{
-  position: relative;
-  /* bottom: auto; */
-  /* top: 500px;
-  left: 150px;
-  background-color: #94bbb9;
-font-size: xx-large;
-margin: auto;
-width: 30%;
-padding-top: 0.1px;
-padding-bottom: 0.1px;
-padding-left: 50px;
-} */ 
-
+.footer{
+  text-align: center;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 40px;
+  background-color:#7858a6;
+  color: white;
+  word-spacing: 10px;
+  
+}
+a{
+  color: white;
+}
+.educat{
+  text-align: center;
+  color: #7858a6;
+  font-size: large;
+  font: italic 1.2em "Fira Sans", serif;
+  font-weight: normal;
+}
